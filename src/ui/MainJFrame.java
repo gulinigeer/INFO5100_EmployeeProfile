@@ -8,7 +8,7 @@ import model.EmployeeHistory;
 
 /**
  *
- * @author lina
+ * @author gulinigeer
  */
 public class MainJFrame extends javax.swing.JFrame {
 
