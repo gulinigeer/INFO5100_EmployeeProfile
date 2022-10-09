@@ -18,7 +18,7 @@ import model.Employee;
 
 /**
  *
- * @author lina
+ * @author gulinigeer
  */
 public class CreateJPanel extends javax.swing.JPanel {
 
